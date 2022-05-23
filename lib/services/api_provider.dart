@@ -9,7 +9,7 @@ enum DioAction {
 
 class ApiProvider {
   final String bearerToken =
-      'Bearer b3717640ec422524782fb59e6e8c872b4e08c6eba386f36d25cc3f5c568f7033';
+      'Bearer tale ur own here'; //create your own bearer token and paste it here
   final String baseUrl = 'https://gorest.co.in/public/v2/users';
   final Dio _dio = Dio();
 
